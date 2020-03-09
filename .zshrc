@@ -9,7 +9,7 @@ fi
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="/Users/chrisbetters/.oh-my-zsh"
+export ZSH="$HOME/.oh-my-zsh"
 # added by Anaconda3 4.3.1 installer
 # export PATH="/Users/chrisbetters/anaconda3/bin:$PATH"  # commented out by conda initialize
 
